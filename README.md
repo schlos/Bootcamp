@@ -12,3 +12,4 @@ Specifications
 -	Use of CSS patterns for background overlay. Kudos to <a href="http://patternify.com" target="_blank">Patternify</a> for the app.
 -	Use of <a href="http://responsive-nav.com/" target="_blank">responsive-nav</a> JS plugin by @vijamis. Custom navbar styles.
 -	All images are free to use.
+
